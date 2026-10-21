@@ -2,6 +2,9 @@
 
 立项日期：2026-10-20。本类是「领域学习谱系」五类中的第一类，由 Ezra 亲点开工：他在短视频里看到有人安利一个叫 QuantDinger 的开源 AI 量化交易系统，让把量化交易在 GitHub 上单开一类、把里面的东西做成中文教育内容。本文件先把 QuantDinger 核实清楚，再定本类的总纲：收什么、按什么顺序学、经典材料有哪些。
 
+
+支持与更多：[GitHub Sponsors](https://github.com/sponsors/Ezra-Zhao) · [Gumroad — 我在用的模板与工作簿](https://ezraflow28.gumroad.com) · [Ko-fi](https://ko-fi.com/ezra777zhao)
+
 ## 一、QuantDinger 核实结果（2026-10-20 GitHub API + 仓库 README 实查）
 
 - **仓库**：[OpenByteInc/QuantDinger](https://github.com/OpenByteInc/QuantDinger)，是真仓，不是同名山寨（搜索结果里另有几个 fork 与仿仓，star 只有个位数到两位数，已剔除）。
